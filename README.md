@@ -15,7 +15,7 @@ CI (Continuous Integration - непрерывная интеграция)
 
 
 Проверка работы через actions:
-![screen](./img/1596074d-0946-4a7f-aec6-a2eb23c5fa1a.png)
+![screen](./img/Снимок экрана (5).png)
 
 
 Сборка и запуск через докер файл:
